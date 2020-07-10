@@ -21,10 +21,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/dice/Dicee-Flutter-Completed-master/README.md" timestamp="1594355408610">
         <mark key="[" line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/dice/Dicee-Flutter-Completed-master/lib/main.dart" timestamp="1594355701928">
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="11" column="28" />
-        <mark key="." line="11" column="28" />
+      <file name="$USER_HOME$/AndroidStudioProjects/dice/Dicee-Flutter-Completed-master/lib/main.dart" timestamp="1594394885139">
+        <mark key="[" line="8" column="42" />
+        <mark key="]" line="8" column="42" />
+        <mark key="." line="8" column="42" />
       </file>
       <file name="/Kotlin Console" timestamp="1594175255635">
         <mark key="[" line="0" column="0" />
@@ -38,7 +38,10 @@
         <text>red</text>
       </register>
       <register name="&quot;" type="4">
-        <text>red</text>
+        <text>,</text>
+      </register>
+      <register name="-" type="4">
+        <text>,</text>
       </register>
     </registers>
   </component>
