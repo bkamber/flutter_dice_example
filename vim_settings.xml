@@ -21,16 +21,16 @@
       <file name="$USER_HOME$/AndroidStudioProjects/dice/Dicee-Flutter-Completed-master/README.md" timestamp="1594355408610">
         <mark key="[" line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/dice/Dicee-Flutter-Completed-master/lib/main.dart" timestamp="1594394885139">
-        <mark key="[" line="8" column="42" />
-        <mark key="]" line="8" column="42" />
-        <mark key="." line="8" column="42" />
+      <file name="$USER_HOME$/AndroidStudioProjects/dice/Dicee-Flutter-Completed-master/lib/main.dart" timestamp="1594477035104">
+        <mark key="'" line="8" column="7" />
       </file>
       <file name="/Kotlin Console" timestamp="1594175255635">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="8" column="7" filename="$USER_HOME$/AndroidStudioProjects/dice/Dicee-Flutter-Completed-master/lib/main.dart" />
+    </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
@@ -52,7 +52,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
