@@ -4,7 +4,7 @@
     <property name="created">2020-07-09T19:19:37</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.0.16</property>
-    <property name="modified">2020-07-15T15:48:38</property>
+    <property name="modified">2020-07-16T04:35:35</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -51,7 +51,7 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="268bd2" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="268bd2" />
     <option name="FILESTATUS_OBSOLETE" value="b58900" />
-    <option name="FILESTATUS_RENAMED" value="6c71c4" />
+    <option name="FILESTATUS_RENAMED" value="268bd2" />
     <option name="FILESTATUS_SUPPRESSED" value="" />
     <option name="FILESTATUS_SWITCHED" value="268bd2" />
     <option name="FILESTATUS_UNKNOWN" value="d33682" />
